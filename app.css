@@ -1,0 +1,24 @@
+body {
+    margin-top: 3em;
+    user-select: none;
+}
+
+#buttons-container {
+    width: 60%;
+}
+
+#dice-container {
+    width: 60%;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.die {
+    display: inline-block;
+    text-align: center;
+    font-size: 300px;
+    line-height: .65;
+    cursor: pointer;
+}
